@@ -1,2 +1,2 @@
 # Data-science-projects
-data science projects done by my
+data science projects done by me
