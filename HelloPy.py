@@ -1,3 +1,3 @@
 #Display the output
 
-printt("hellow python")
+print("hellow python")
