@@ -1,0 +1,2 @@
+
+![Histograma](./histR.jpg)
