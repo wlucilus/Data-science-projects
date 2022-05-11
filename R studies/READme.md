@@ -1,2 +1,2 @@
 
-![Histograma](./histR.jpg)
+![Histograma](./histoR.jpg)
