@@ -1,9 +1,12 @@
 # Data-science-projects
-data science projects done by me
+data science projects and studies done by me  
+Following IBM Data science course on Coursera
 
-to do list
-+ remove stars
-+ do stacking
-+ more?
 
+
+Some content:
+  + Pandas data manipulation and webscrapping (beautifull soup)
+  + R introducition
+  + Python machine learning algorithms (uses some pandas studies)
+  + ...
 ![Imagem dark doodad](./dark_doodad.jpg)
