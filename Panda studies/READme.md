@@ -7,5 +7,6 @@
 - HTTP request
   - Download a web page to python using the library requests
 - Webscrapping
-  - Uses Request and Beautful soup libraries to navigate through downloaded HTML file
+  - Uses Request and Beautiful soup libraries to navigate through downloaded HTML file
   - Transform data from a soup to a DataFrame
+  - Directly convert a table from HTML file to pandas DataFrame
