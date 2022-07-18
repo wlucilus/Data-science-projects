@@ -9,4 +9,7 @@ Some content:
   + R introducition
   + Python machine learning algorithms (uses some pandas studies)
   + ...
+  
+(please see directories within) 
+  
 ![Imagem dark doodad](./dark_doodad.jpg)
