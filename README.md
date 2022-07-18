@@ -12,4 +12,4 @@ Some content:
   
 (please see directories within) 
   
-![Imagem dark doodad](./dark_doodad.jpg)
+#![Imagem dark doodad](./dark_doodad.jpg)
